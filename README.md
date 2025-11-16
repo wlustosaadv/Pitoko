@@ -5,4 +5,6 @@ O projeto também tem uma parte visual simples e acolhedora, feita com HTML, CSS
 
 Pra funcionar direitinho, o Pitoko precisa de dois elementos principais: a chave da OpenAI, que deve ser adicionada como variável de ambiente (OPENAI_API_KEY), e o arquivo credentials.json, que contém as credenciais da conta de serviço do Google Cloud. Esse arquivo é o que permite que o Pitoko leia o conteúdo do Google Docs de forma segura e automática.
 
-Depois de configurar tudo, é só rodar o projeto no Replit e em poucos segundos, o Pitoko estará online.
+Depois de configurar tudo, e botar pra rodar.
+
+Dica: Se quiser apenas testar, recomendo usar o Replit, pois tem uma interface pra overview em tela dividida com o código. O ponto negativo é que tem que pagar pra tonar público ou repostar o código alterado que você fizer dentro dele.
