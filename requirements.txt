@@ -1,0 +1,5 @@
+streamlit
+openai
+flask
+google-api-python-client
+google-auth
